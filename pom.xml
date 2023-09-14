@@ -28,7 +28,11 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
+	<scm>
+		<connection>scm:git:https://github.com/tawfik-1990/TBDJenkinsTest.git</connection>
+		<developerConnection>scm:git:https://github.com/tawfik-1990/TBDJenkinsTest.git</developerConnection>
+		<url>https://github.com/tawfik-1990/TBDJenkinsTest</url>
+	</scm>
 	<build>
 		<plugins>
 			<plugin>
