@@ -33,6 +33,7 @@
 		<url>https://github.com/tawfik-1990/TBDJenkinsTest</url>
 		
     
+    <tag>release/1.0.0</tag>
   </scm>
 	<build>
 		<plugins>
