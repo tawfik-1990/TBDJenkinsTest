@@ -32,7 +32,7 @@
 		<developerConnection>scm:git:https://github.com/tawfik-1990/TBDJenkinsTest.git</developerConnection>
 		<url>https://github.com/tawfik-1990/TBDJenkinsTest</url>
 
-    <tag>HEAD</tag>
+    <tag>release/2.0.0</tag>
   </scm>
 	<build>
 		<plugins>
