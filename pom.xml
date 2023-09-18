@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>TDBJenkinsTest</artifactId>
-	<version>1.1.0-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>TDBJenkinsTest</name>
 	<description>test jenkins TDB</description>
 	<properties>
@@ -32,7 +32,7 @@
 		<developerConnection>scm:git:https://github.com/tawfik-1990/TBDJenkinsTest.git</developerConnection>
 		<url>https://github.com/tawfik-1990/TBDJenkinsTest</url>
 
-    <tag>HEAD</tag>
+
   </scm>
 	<build>
 		<plugins>
