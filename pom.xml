@@ -34,7 +34,7 @@
 
 
 
-    <tag>HEAD</tag>
+    <tag>release/1.1.0</tag>
   </scm>
 	<build>
 		<plugins>
