@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>TDBJenkinsTest</artifactId>
-	<version>1.1.0-Snapshot</version>
+	<version>1.0.0-Snapshot</version>
 	<name>TDBJenkinsTest</name>
 	<description>test jenkins TDB</description>
 	<properties>
