@@ -9,7 +9,7 @@
   </parent>
   <groupId>com.example</groupId>
   <artifactId>TDBJenkinsTest</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2-SNAPSHOT</version>
   <name>TDBJenkinsTest</name>
   <description>test jenkins TDB</description>
   <scm>
@@ -17,7 +17,7 @@
     <developerConnection>scm:git:https://github.com/tawfik-1990/TBDJenkinsTest.git</developerConnection>
  
     <url>https://github.com/tawfik-1990/TBDJenkinsTest</url>
-    <tag>1.0.1</tag>
+    <tag>1.0-Release</tag>
   </scm>
   <properties>
     <java.version>17</java.version>
